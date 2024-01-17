@@ -1,0 +1,199 @@
+---
+
+- taxonomy: 钱包插件
+  icon: far fa-star
+  links: 
+    - title: SwitchyOmega插件
+      logo: ProxySwitchyOmega.png
+      url: https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+      description: ""
+    - title: 侧边翻译
+      logo: 侧边翻译.png
+      url: https://chrome.google.com/webstore/detail/edge-translate/bocbaocobfecmglnmeaeppambideimao?hl=zh-CN
+      description: ""
+    - title: 小狐狸钱包
+      logo: MetaMask.png
+      url: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=ext_app_menu
+      description: ""
+    - title: 头盔钱包
+      logo: 头盔.png
+      url: https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma?hl=zh-CN
+      description: STARKNET
+    - title: OKX钱包及任务
+      logo: OKX.png
+      url: https://www.okx.com/cn/web3/discover/cryptopedia
+      description: ""
+    - title: Solana-phantom钱包
+      logo: Phantom.png
+      url: https://phantom.app/
+      description: ""
+    - title: Solana-Backpack钱包
+      logo: Backpack.png
+      url: https://backpack.app/downloads
+      description: ""
+    - title: UNISAT钱包
+      logo: Unisat.png
+      url: https://unisat.io/download
+      description: ""
+    - title: Fuel钱包
+      logo: Fuel.png
+      url: https://chromewebstore.google.com/detail/fuel-wallet/dldjpboieedgcmpkchcjcbijingjcgok
+      description: ""
+    - title: TP钱包
+      logo: TokenPocket.png
+      url: https://www.tokenpocket.pro/
+      description: ""
+
+- taxonomy: 四件套
+  icon: far fa-star
+  links: 
+    - title: Twitter
+      logo: ""
+      url: https://twitter.com/
+      description: ""
+    - title: Discord
+      logo: ""
+      url: https://discord.com/
+      description: ""
+    - title: Telegram网页版
+      logo: ""
+      url: https://web.telegram.org/
+      description: ""
+    - title: Outlook邮箱
+      logo: ""
+      url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f%3focid%3dPROD_Edge_CONS_WebXT_FM_EDG_NTP-Waffle-Outlook&sdf=0
+      description: ""
+    - title: Proton邮箱
+      logo: ""
+      url: https://proton.me/
+      description: ""
+
+- taxonomy: 主网任务
+  icon: fas fa-flask fa-lg
+  list:
+    - term: Zksync
+      links:
+        - title: zkSync官网
+          logo: rsz_zksync era.webp
+          url: https://zksync.io/
+          description: ""
+        - title: Chainlist添加ZKS网络
+          logo: chainlist.png
+          url: https://chainlist.org/?search=zks
+          description: ""
+        - title: ZK所有生态defillama
+          logo: defillama.png
+          url: https://defillama.com/chain/zkSync%20Era
+          description: ""
+        - title: 主网跨链桥txSync
+          logo: partner-txsync.svg
+          url: https://zksync.io/explore#bridges
+          description: ""
+        - title: Zksync-lite
+          logo: partner-zksync-lite.svg
+          url: https://lite.zksync.io/account/
+          description: 最少要转0.003eth，0.0015+激活
+        - title: zkflow
+          logo: zkSwap.png
+          url: https://zkswap.finance/zkflow
+          description: 查交互信息，tx数，推荐dapp
+
+        - title: Maverick
+          logo: Maverick.png
+          url: https://app.mav.xyz/
+          description: swap20U
+        - title: izumiswap
+          logo: iZUMi.png
+          url: https://izumi.finance/trade/swap
+          description: swap大于50U有积分，每周更新，可LP大于3天
+        - title: Syncswap
+          logo: syncswap.png
+          url: https://syncswap.xyz/
+          description: 
+        - title: Mute
+          logo: mute.webp
+          url: https://app.mute.io/swap
+          description: 
+        - title: Syncswap
+          logo: syncswap.png
+          url: https://syncswap.xyz/
+          description: ""
+
+    - term: 云服务器
+      links:
+
+    - term: 办公学习
+      links:
+
+        
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 影音视频
+      links:
+
+    - term: 游戏竞技
+      links:
+
+   
+      
+- taxonomy: 素材资源
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 网盘资源
+      links:
+
+    - term: 图标素材
+      links:
+
+    - term: 图标设计
+      links:
+
+    - term: 平面素材
+      links:
+
+    - term: 字体资源
+      links:
+   
+    - term: PPT资源
+      links:
+
+      
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 图形创意
+      links:
+
+    - term: 界面设计
+      links:
+
+    - term: 在线配色
+      links:
+
+    - term: 在线工具
+      links:
+
+        
+    - term: 谷歌插件
+      links:
+
+
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 资讯书籍
+      links:
+ 
+    - term: 博客论坛
+      links:
+
+    - term: 设计规范
+      links:
+
+    - term: 视频教程
+      links:
+
